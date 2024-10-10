@@ -1,13 +1,13 @@
 import React, { Fragment } from "react";
 
-import Header from "../Header/Header";
+// Removed the import statement for Header
 import Footer from "../Footer/Footer";
 import Routers from "../../routers/Routers";
 
 const Layout = () => {
   return (
     <Fragment>
-      <Header />
+      {/* Removed the <Header /> component */}
       <div>
         <Routers />
       </div>

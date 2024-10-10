@@ -1,0 +1,14 @@
+{/* Brands Collaboration Section */}
+<section className="brands-collaboration">
+        <h2>OUR BRANDS COLLABORATION</h2>
+        <div className="brands-slider">
+          <div className="brand-logos">
+            <img src="https://example.com/soho-logo.png" alt="SOHO" />
+            <img src="https://example.com/shaif-logo.png" alt="Shaif" />
+            <img src="https://example.com/chaaye-khana-logo.png" alt="Chaaye Khana" />
+            <img src="https://example.com/stylo-logo.png" alt="Stylo" />
+            <img src="https://example.com/best-western-logo.png" alt="Best Western" />
+            {/* Add more logos as needed */}
+          </div>
+        </div>
+      </section>
